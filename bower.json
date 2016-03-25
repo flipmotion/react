@@ -1,0 +1,9 @@
+{
+  "name": "newedenfaces",
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "*",
+    "magnific-popup": "*",
+    "toastr": "*"
+  }
+}
